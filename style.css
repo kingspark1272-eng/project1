@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 120px;
+}
+.thead{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+}
+.namehead{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    padding-left:60px;
+    display: flex;
+    gap: 50px;
+    }
+.about{
+    display: flex;
+    gap: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: lightgray;
+}
+.fa-regular{
+    background-color:black;
+    padding-top: 20px;
+    padding-left: 450px;
+}
+.fa-solid{
+    background-color: black;
+    padding-left: 15px;
+}
+.table img{
+    height: 299px;
+    width: 299x;
+    margin-left: 55px;
+    margin-top: 30px;
+}
+.about-div{
+    width: 90%;
+    height: 500px;
+    margin-left: 60px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+}
+.about-img{
+    width: 34%;
+    height: 100%;
+    
+}.about-img img{
+    width: 100%;
+    height: 100%;
+}.about-text{
+    width: 66%;
+    height: 100%;
+    font-weight: lighter;
+    font-family: "system_ui", -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    
+}.ab-text{
+    width: 80%;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.ab-text .p1{
+font-weight: 500;
+font-size: 20px;
+
+}
+.ab-text .p2{
+    padding-top: 30px;
+}
+.button {
+    font-family: 'Courier New', Courier,;
+    color:aliceblue;
+    background-color:#121212;
+    width: 100px;
+    height: 44px;
+    margin-top:30px ;
+}
+.footer{
+    background-color: #121212;
+    width: 100%;
+    height: 450px;
+    margin-top: 70px;
+}
+.atext{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin-left: 520px;
+    font-size: 18px;
+    padding-top: 50px;
+    list-style: none;
+}
+.posi{
+    padding-left: 25px;
+}
+.fa-brands{
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-bottom: 70px;
+}
+.end{
+    color: rgb(145, 145, 145);
+    font-size: 13px;
+    padding-top: 70px;
+    padding-left: 60px;
+}
+.email-id{
+    position: absolute;
+    left: 42%;
+}
+.thead:hover{
+ background-color: rgb(38, 37, 37);
+}
+#home:hover{
+    text-decoration: underline;
+}
+#aboutus:hover{
+    text-decoration: underline;
+}
+#cat:hover{
+    text-decoration: underline;
+}
+#track:hover{
+    text-decoration: underline;
+}
+.posi:hover{
+    text-decoration: underline;
+}
+#num1:hover{
+    text-decoration: underline;
+}
+#num2:hover{
+    text-decoration: underline;
+}
+.email-id:hover{
+    text-decoration: underline;
+}
